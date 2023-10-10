@@ -1,0 +1,46 @@
+Objetos Materiais:
+
+Carro:
+
+Atributos:
+marca
+cor
+ano
+Métodos:
+ligar(): Liga o carro.
+acelerar(velocidade): Acelera o carro para a velocidade especificada.
+parar(): Para o carro.
+Livro:
+
+Atributos:
+título
+autor
+número de páginas
+Métodos:
+abrir(): Abre o livro na primeira página.
+virarPágina(): Vira a página atual do livro.
+fechar(): Fecha o livro.
+
+
+Objetos Abstratos:
+
+Conta Bancária:
+
+Atributos:
+titular
+saldo
+tipo de conta
+Métodos:
+verificarSaldo(): Retorna o saldo atual da conta.
+depositar(valor): Deposita o valor especificado na conta.
+sacar(valor): Saca o valor especificado da conta.
+Usuário (de um sistema):
+
+Atributos:
+nome
+email
+senha
+Métodos:
+login(): Permite que o usuário faça login no sistema.
+logout(): Desconecta o usuário do sistema.
+alterarSenha(novaSenha): Permite que o usuário altere sua senha
